@@ -1,11 +1,11 @@
 package com.example.bicycledemo;
 
-import com.example.bicycle.Bicycle;
+import com.example.awesomebicycle.AwesomeBicycle;
 
 public class BicycleDemo {
     public static void main(String[] args) {
-        Bicycle bike1 = new Bicycle();
-        Bicycle bike2 = new Bicycle();
+        AwesomeBicycle bike1 = new AwesomeBicycle();
+        AwesomeBicycle bike2 = new AwesomeBicycle();
 
         bike1.changeCadence(50);
         bike1.speedUp(10);
