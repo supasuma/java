@@ -1,7 +1,7 @@
 package com.example.awesomebicycle;
 
 
-import com.example.com.example.bicycle.Bicycle;
+import com.example.bicycle.Bicycle;
 
 public class AwesomeBicycle implements Bicycle {
     private int cadence = 0;
