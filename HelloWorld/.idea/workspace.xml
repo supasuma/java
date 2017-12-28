@@ -7,11 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33f4b246-fda9-4349-bdf6-9f2f63da0f86" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Bicycle/src/com/practice/arraydemo/MultiDemArrayDemo.java" />
       <change beforePath="$PROJECT_DIR$/../Bicycle/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Bicycle/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/com/practice/arraydemo/ArrayDemo.class" afterPath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/com/practice/arraydemo/ArrayDemo.class" />
-      <change beforePath="$PROJECT_DIR$/../Bicycle/src/com/practice/arraydemo/ArrayDemo.java" afterPath="$PROJECT_DIR$/../Bicycle/src/com/practice/arraydemo/ArrayDemo.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
