@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab8bed7c-06d7-4b20-93c2-ab63c07d6683" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/practice/arraydemo/ArrayDemo.java" afterPath="$PROJECT_DIR$/src/com/practice/arraydemo/ArrayDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/practice/arraydemo/ArrayCopyDemo.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +37,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/practice/arraydemo/ArrayDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayCopyDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/practice/arraydemo/ArrayCopyDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -121,6 +133,7 @@
         <option value="$PROJECT_DIR$/src/com/example/awesomebicycle/AwesomeBicycle.java" />
         <option value="$PROJECT_DIR$/src/com/practice/arraydemo/MultiDemArrayDemo.java" />
         <option value="$PROJECT_DIR$/src/com/practice/arraydemo/ArrayDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/practice/arraydemo/ArrayCopyDemo.java" />
       </list>
     </option>
   </component>
@@ -203,13 +216,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultiDemArrayDemo">
+  <component name="RunManager" selected="Application.ArrayCopyDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="ArrayCopyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.practice.arraydemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.practice.arraydemo.ArrayCopyDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Bicycle" />
+      <envs />
     </configuration>
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -342,16 +374,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.BicycleDemo" />
       <item index="1" class="java.lang.String" itemvalue="Application.ArrayDemo" />
       <item index="2" class="java.lang.String" itemvalue="Application.MultiDemArrayDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ArrayCopyDemo" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.MultiDemArrayDemo" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.ArrayCopyDemo" />
         <item index="1" class="java.lang.String" itemvalue="Application.ArrayDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BicycleDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MultiDemArrayDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BicycleDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -618,6 +652,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/arraydemo/ArrayCopyDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding />
         </state>
       </provider>
