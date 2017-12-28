@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33f4b246-fda9-4349-bdf6-9f2f63da0f86" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Bicycle/src/com/practice/arraydemo/ArrayCopyDemo.java" />
       <change beforePath="$PROJECT_DIR$/../Bicycle/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Bicycle/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/src/com/practice/arraydemo/ArrayCopyDemo.java" afterPath="$PROJECT_DIR$/../Bicycle/src/com/practice/arraydemo/ArrayCopyDemo.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
