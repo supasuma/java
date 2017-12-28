@@ -3,7 +3,7 @@ package com.practice.arraydemo;
 public class ArrayDemo {
     public static void main(String[] args) {
         //declare array of integers
-        int[] anArray;
+//        int[] anArray;
 
         //allocate memory for  10 integers
 //        anArray = new int[10];
@@ -21,7 +21,7 @@ public class ArrayDemo {
 //        anArray[9] = 1000;
 
         //better way to initialize elements
-        anArray = new int[] {
+        int[] anArray =  {
                 100, 200, 300,
                 400, 500, 600,
                 700, 800, 900, 1000

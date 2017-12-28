@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab8bed7c-06d7-4b20-93c2-ab63c07d6683" name="Default" comment="" />
+    <list default="true" id="ab8bed7c-06d7-4b20-93c2-ab63c07d6683" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/practice/arraydemo/ArrayDemo.java" afterPath="$PROJECT_DIR$/src/com/practice/arraydemo/ArrayDemo.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,17 +35,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayDemo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ArrayDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/practice/arraydemo/ArrayDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+              <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MultiDemArrayDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MultiDemArrayDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/practice/arraydemo/MultiDemArrayDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -604,18 +606,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/arraydemo/ArrayDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/arraydemo/MultiDemArrayDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/arraydemo/ArrayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
           <folding />
         </state>
       </provider>
