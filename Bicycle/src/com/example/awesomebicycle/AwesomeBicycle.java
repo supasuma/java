@@ -4,9 +4,15 @@ package com.example.awesomebicycle;
 import com.example.bicycle.Bicycle;
 
 public class AwesomeBicycle implements Bicycle {
-    private int cadence = 0;
-    private int speed = 0;
-    private int gear = 1;
+    private int cadence;
+    private int speed;
+    private int gear;
+
+    public AwesomeBicycle(int startCadence, int startSpeed, int startGear) {
+        gear = startGear;
+        cadence = startCadence;
+        speed = startSpeed;
+    }
 
     public void changeCadence(int newValue) {
         cadence = newValue;

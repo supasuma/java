@@ -8,14 +8,8 @@
   <component name="ChangeListManager">
     <list default="true" id="33f4b246-fda9-4349-bdf6-9f2f63da0f86" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../Bicycle/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Bicycle/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/com/example/awesomebicycle/AwesomeBicycle.class" afterPath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/com/example/awesomebicycle/AwesomeBicycle.class" />
-      <change beforePath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/com/example/bicycle/Bicycle.class" afterPath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/com/example/bicycle/Bicycle.class" />
-      <change beforePath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/com/example/bicycledemo/BicycleDemo.class" afterPath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/com/example/bicycledemo/BicycleDemo.class" />
       <change beforePath="$PROJECT_DIR$/../Bicycle/src/com/example/awesomebicycle/AwesomeBicycle.java" afterPath="$PROJECT_DIR$/../Bicycle/src/com/example/awesomebicycle/AwesomeBicycle.java" />
-      <change beforePath="$PROJECT_DIR$/../Bicycle/src/com/example/bicycle/Bicycle.java" afterPath="$PROJECT_DIR$/../Bicycle/src/com/example/bicycle/Bicycle.java" />
       <change beforePath="$PROJECT_DIR$/../Bicycle/src/com/example/bicycledemo/BicycleDemo.java" afterPath="$PROJECT_DIR$/../Bicycle/src/com/example/bicycledemo/BicycleDemo.java" />
-      <change beforePath="$PROJECT_DIR$/../Bicycle/src/com/practice/arraydemo/ArrayCopyDemo.java" afterPath="$PROJECT_DIR$/../Bicycle/src/com/practice/arraydemo/ArrayCopyDemo.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -361,6 +355,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-304" y="-1129" width="2048" height="1071" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />

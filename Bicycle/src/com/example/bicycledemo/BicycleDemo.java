@@ -4,8 +4,8 @@ import com.example.awesomebicycle.AwesomeBicycle;
 
 public class BicycleDemo {
     public static void main(String[] args) {
-        AwesomeBicycle bike1 = new AwesomeBicycle();
-        AwesomeBicycle bike2 = new AwesomeBicycle();
+        AwesomeBicycle bike1 = new AwesomeBicycle(10, 20, 30);
+        AwesomeBicycle bike2 = new AwesomeBicycle(20, 40, 30);
 
         bike1.changeCadence(50);
         bike1.speedUp(10);
