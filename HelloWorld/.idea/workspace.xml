@@ -8,8 +8,13 @@
   <component name="ChangeListManager">
     <list default="true" id="33f4b246-fda9-4349-bdf6-9f2f63da0f86" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../Bicycle/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Bicycle/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/com/controlflowdemo/ControlFlow.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/com/example/awesomebicycle/AwesomeBicycle.class" afterPath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/com/example/awesomebicycle/AwesomeBicycle.class" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/com/example/bicycledemo/BicycleDemo.class" afterPath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/com/example/bicycledemo/BicycleDemo.class" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/com/example/mountainbike/MountainBike.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../Bicycle/src/com/example/awesomebicycle/AwesomeBicycle.java" afterPath="$PROJECT_DIR$/../Bicycle/src/com/example/awesomebicycle/AwesomeBicycle.java" />
-      <change beforePath="$PROJECT_DIR$/../Bicycle/src/com/example/bicycledemo/BicycleDemo.java" afterPath="$PROJECT_DIR$/../Bicycle/src/com/example/bicycledemo/BicycleDemo.java" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/src/com/example/mountainbike/MountainBike.java" afterPath="$PROJECT_DIR$/../Bicycle/src/com/example/mountainbike/MountainBike.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

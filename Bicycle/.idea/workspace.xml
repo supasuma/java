@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab8bed7c-06d7-4b20-93c2-ab63c07d6683" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/example/awesomebicycle/AwesomeBicycle.java" afterPath="$PROJECT_DIR$/src/com/example/awesomebicycle/AwesomeBicycle.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/bicycledemo/BicycleDemo.java" afterPath="$PROJECT_DIR$/src/com/example/bicycledemo/BicycleDemo.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bicycle/com/controlflowdemo/ControlFlow.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bicycle/com/example/awesomebicycle/AwesomeBicycle.class" afterPath="$PROJECT_DIR$/out/production/Bicycle/com/example/awesomebicycle/AwesomeBicycle.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bicycle/com/example/bicycledemo/BicycleDemo.class" afterPath="$PROJECT_DIR$/out/production/Bicycle/com/example/bicycledemo/BicycleDemo.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bicycle/com/example/mountainbike/MountainBike.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mountainbike/MountainBike.java" afterPath="$PROJECT_DIR$/src/com/example/mountainbike/MountainBike.java" />
       <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,24 +50,28 @@
             <splitter split-orientation="horizontal" split-proportion="0.5">
               <split-first>
                 <leaf>
-                  <file leaf-file-name="MountainBike.java" pinned="false" current-in-tab="false">
+                  <file leaf-file-name="MountainBike.java" pinned="false" current-in-tab="true">
                     <entry file="file://$PROJECT_DIR$/src/com/example/mountainbike/MountainBike.java">
                       <provider selected="true" editor-type-id="text-editor">
-                        <state relative-caret-position="60">
-                          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-                          <folding />
+                        <state relative-caret-position="135">
+                          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                          <folding>
+                            <element signature="e#210#211#0" expanded="true" />
+                            <element signature="e#267#268#0" expanded="true" />
+                          </folding>
                         </state>
                       </provider>
                     </entry>
                   </file>
-                  <file leaf-file-name="AwesomeBicycle.java" pinned="false" current-in-tab="true">
+                  <file leaf-file-name="AwesomeBicycle.java" pinned="false" current-in-tab="false">
                     <entry file="file://$PROJECT_DIR$/src/com/example/awesomebicycle/AwesomeBicycle.java">
                       <provider selected="true" editor-type-id="text-editor">
-                        <state relative-caret-position="300">
-                          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+                        <state relative-caret-position="210">
+                          <caret line="14" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
                           <folding>
                             <element signature="e#409#410#0" expanded="true" />
                             <element signature="e#443#444#0" expanded="true" />
+                            <element signature="e#487#488#0" expanded="true" />
                             <element signature="e#518#519#0" expanded="true" />
                             <element signature="e#560#561#0" expanded="true" />
                             <element signature="e#601#602#0" expanded="true" />
@@ -140,14 +148,14 @@
         <option value="$PROJECT_DIR$/src/com/example/bicycle/AwesomeBicycle.java" />
         <option value="$PROJECT_DIR$/src/Bicycle.java" />
         <option value="$PROJECT_DIR$/src/com/example/com/example/bicycle/Bicycle.java" />
-        <option value="$PROJECT_DIR$/src/com/example/mountainbike/MountainBike.java" />
         <option value="$PROJECT_DIR$/src/com/practice/arraydemo/MultiDemArrayDemo.java" />
         <option value="$PROJECT_DIR$/src/com/practice/arraydemo/ArrayDemo.java" />
         <option value="$PROJECT_DIR$/src/com/practice/arraydemo/ArrayCopyDemo.java" />
         <option value="$PROJECT_DIR$/src/com/controlflowdemo/ControlFlow.java" />
         <option value="$PROJECT_DIR$/src/com/example/bicycle/Bicycle.java" />
-        <option value="$PROJECT_DIR$/src/com/example/awesomebicycle/AwesomeBicycle.java" />
         <option value="$PROJECT_DIR$/src/com/example/bicycledemo/BicycleDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/example/awesomebicycle/AwesomeBicycle.java" />
+        <option value="$PROJECT_DIR$/src/com/example/mountainbike/MountainBike.java" />
       </list>
     </option>
   </component>
@@ -480,7 +488,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34938523" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34938523" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -559,6 +567,7 @@
           <folding>
             <element signature="e#409#410#0" expanded="true" />
             <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
             <element signature="e#518#519#0" expanded="true" />
             <element signature="e#560#561#0" expanded="true" />
             <element signature="e#601#602#0" expanded="true" />
@@ -582,7 +591,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -601,6 +613,7 @@
           <folding>
             <element signature="e#409#410#0" expanded="true" />
             <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
             <element signature="e#518#519#0" expanded="true" />
             <element signature="e#560#561#0" expanded="true" />
             <element signature="e#601#602#0" expanded="true" />
@@ -624,7 +637,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -710,14 +726,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/mountainbike/MountainBike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/bicycledemo/BicycleDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -728,11 +736,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/awesomebicycle/AwesomeBicycle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="e#409#410#0" expanded="true" />
             <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
             <element signature="e#518#519#0" expanded="true" />
             <element signature="e#560#561#0" expanded="true" />
             <element signature="e#601#602#0" expanded="true" />
@@ -740,6 +749,17 @@
             <element signature="e#884#885#0" expanded="true" />
             <element signature="e#917#918#0" expanded="true" />
             <element signature="e#1011#1012#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/mountainbike/MountainBike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
           </folding>
         </state>
       </provider>
