@@ -12,10 +12,6 @@ public class ArrayCopyDemo {
 //        System.arraycopy(copyFrom, 2, copyTo, 0, 7);
         System.out.println(new String(copyTo));
 
-        String thingsStuff;
-        System.out.println(thingsStuff);
-
-
         int some = Arrays.binarySearch(copyFrom, 'i');
         System.out.println(some);
 

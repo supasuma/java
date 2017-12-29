@@ -21,7 +21,15 @@ public class AwesomeBicycle implements Bicycle {
     }
 
     public void applyBrakes(int decrement) {
-        speed = speed - decrement;
+        if (isMoving()){
+            speed = speed - decrement;
+        } else {
+            System.out.println("bike has already stopped!");
+        }
+    }
+
+    public boolean isMoving() {
+       return speed > 0 ? true : false;
     }
 
     public void printStates() {

@@ -10,6 +10,9 @@ public class BicycleDemo {
         bike1.changeCadence(50);
         bike1.speedUp(10);
         bike1.changeGear(2);
+        bike1.applyBrakes(11);
+        bike1.speedUp(1);
+        bike1.applyBrakes(1);
         bike1.printStates();
 
         bike2.changeCadence(50);
@@ -18,6 +21,7 @@ public class BicycleDemo {
         bike2.changeCadence(40);
         bike2.speedUp(10);
         bike2.changeGear(3);
+        bike2.applyBrakes(10);
         bike2.printStates();
     }
 }

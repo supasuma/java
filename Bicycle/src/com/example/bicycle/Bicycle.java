@@ -6,4 +6,5 @@ public interface Bicycle {
     public void speedUp(int increment);
     public void applyBrakes(int decrement);
     public void printStates();
+    public boolean isMoving();
 }
